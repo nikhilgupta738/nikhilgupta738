@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
-<h3 align="center">Ex-Intern at Netlink at Bhopal | Pre-Final Year Student at UCER Prayagraj</h3>
+<h3 align="center">Pre-Final Year Student at UCER Prayagraj</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbest&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbest" /> </p>
 
