@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/doesntknkw" target="blank"><img src="https://img.shields.io/twitter/follow/doesntknkw?logo=twitter&style=for-the-badge" alt="doesntknkw" /></a> </p>
 
-- 🔭 I’m currently working on [Snake Game](https://github.com/Nikhilbest/Snake-game-pygame)
+- 🔭 I’m currently working on [CaliforniaHousePricing](https://github.com/Nikhilbest/CaliforniaHousePricing)
 
 - 💬 Ask me about **python, machine learning, Microsoft azure, google cloud platform**
 
