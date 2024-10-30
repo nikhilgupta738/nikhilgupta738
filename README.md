@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/doesntknkw" target="blank"><img src="https://img.shields.io/twitter/follow/doesntknkw?logo=twitter&style=for-the-badge" alt="doesntknkw" /></a> </p>
 
-- 🔭 I’m currently working on [house-price-prediction](https://github.com/nikhilgupta738/house-price-prediction)
+- 🔭 I’m currently working on [Resume-Builder](https://github.com/nikhilgupta738/resume-builder-flask)
 
 - 💬 Ask me about **python, machine learning, google cloud platform**
 
